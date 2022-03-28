@@ -48,8 +48,8 @@ solver::node* solver::solve(const std::vector<size_t>& solution_indexes, int dep
     // (a unique match being e.g. G..yG or GG...). We rank matches that have a
     // lower average (i.e. narrow down the solutions more) as being more
     // favourable.
-    const auto best_unique_matches = get_best_unique_match_guesses(solution_indexes);
-    const int num_guesses = best_unique_matches.size();
+    const auto best_guesses = get_best_unique_match_guesses(solution_indexes);
+    const int num_guesses = best_guesses.size();
 
     // Allocate new nodes. It is more efficient to dynamically allocate these
     // contiguously.
@@ -59,7 +59,7 @@ solver::node* solver::solve(const std::vector<size_t>& solution_indexes, int dep
     // work over threads if appropriate.
     std::vector<std::thread> threads;
     for (int i = 0; i < num_guesses; i++) {
-        const size_t guess_index = best_unique_matches[i].second;
+        const size_t guess_index = best_guesses[i].second;
         node* subtree = &subtrees[i];
         subtree->guess_index = guess_index;
 
