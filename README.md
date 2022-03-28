@@ -9,6 +9,9 @@ On my system for the default wordle word lists I am able to obtain an average of
 1.5s. This is at a prune limit of 8 (8 guesses considered at each node in the
 decision tree).
 
+This is comparable to the top solvers on the [wordle
+leaderboard](https://freshman.dev/wordle/#/leaderboard).
+
 ## Building
 
 To build, simply invoke the build script. It assumes that the system has cmake
