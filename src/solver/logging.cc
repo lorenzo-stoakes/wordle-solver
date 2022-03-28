@@ -63,6 +63,7 @@ void solver::print_stats(const results& res) const
 
     std::cout << "x : " << m_num_solutions - count << std::endl;
     std::cout << "av: " << (sum / count) << std::endl;
+    std::cout << " #: " << sum << std::endl;
 }
 
 void solver::get_stats(const node* tree, tree_stats& stats, int depth)
