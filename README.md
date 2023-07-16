@@ -30,7 +30,14 @@ scripts/brun.sh [parameters]
 
 ## Usage
 
-The tool accepts 2 required parameters and an additional optional one:
+The solver can be used in two different ways - to determine the most efficient
+route to a _known_ solution, or to generate a decision tree to find the most
+efficient route to _all_ known solutions.
+
+For the quickest TL;DR route to an unknown solution - always guess `salet` first
+then grep `example-strategy-output.txt` for the response and follow that path.
+
+The binary itself can be used as follows:-
 
 ```
 build/wordle valid_guesses_path solutions_path [target solution]
@@ -38,6 +45,14 @@ build/wordle valid_guesses_path solutions_path [target solution]
 
 Each valid guess and solutions file must contain newline-separated word lists
 each at the required length (by default 5 letters).
+
+For convenience, the last known set of valid wordle guesses and solutions are
+supplied in the repository in `wordle-allowed-guesses.txt` and
+`wordle-answers-alphabetical.txt`. For convenience, you can use these via:-
+
+```
+scripts/solve.sh [target solution]
+```
 
 If the target solution is omitted the tool will generate the decision tree for
 the input guesses and output a strategy output like:
