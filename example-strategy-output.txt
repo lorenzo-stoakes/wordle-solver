@@ -1,4 +1,7 @@
-salet y.y.. floss
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/lorenzo/code/wordle-solver/build
+[100%] Built target wordle
 salet yGy.. basal
 salet GGy.. sadly
 salet G.G.. silky
@@ -18,7 +21,6 @@ salet .yGy. delay
 salet .GGy. halve
 salet yGGy. false
 salet GGGy. salve
-salet y..G. risen
 salet yy.G. ashen
 salet GG.G. safer
 salet y.yG. loser
@@ -39,7 +41,7 @@ salet ..G.y filth
 salet .GG.y tally
 salet GGG.y salty
 salet ...yy trite
-salet .y.yy trace
+salet .y.yy crate
 salet yy.yy tease
 salet .G.yy bathe
 salet GG.yy saute
@@ -79,7 +81,6 @@ salet ..GGG filet
 salet y.GGG islet
 salet .GGGG valet
 salet ..... courd ..... nymph
-salet ..... courd y.... pinch
 salet ..... courd G.... cinch
 salet ..... courd .y... inbox
 salet ..... courd yy... knock
@@ -316,22 +317,22 @@ salet .G... corny ..yyG randy
 salet .G... corny ...GG fanny
 salet .G... corny G..GG canny
 salet .G... corny ..yGG rainy
-salet yG... ramin .G... gassy
-salet yG... ramin yG... harsh
-salet yG... ramin GG... raspy
-salet yG... ramin yGy.. marsh
-salet yG... ramin .G.y. daisy
-salet yG... ramin .G.G. basic
-salet yG... ramin .G..y pansy
-salet yG... ramin .Gy.G mason
-salet yG... ramin .G.GG basin
-salet GG... urson ..y.. sappy
-salet GG... urson y.y.. saucy
-salet GG... urson ..G.. sassy
-salet GG... urson ..yG. savoy
-salet GG... urson .yyG. savor
-salet GG... urson ..y.y sandy
-salet GG... urson y.y.y sauna
+salet yG... hoing ..... raspy
+salet yG... hoing y.... marsh
+salet yG... hoing G.... harsh
+salet yG... hoing ..y.. basic
+salet yG... hoing ..G.. daisy
+salet yG... hoing ...y. pansy
+salet yG... hoing .y.y. mason
+salet yG... hoing ..yy. basin
+salet yG... hoing ....y gassy
+salet GG... yupon y.... sassy
+salet GG... yupon yy... saucy
+salet GG... yupon y.G.. sappy
+salet GG... yupon ...G. savor
+salet GG... yupon y..G. savoy
+salet GG... yupon y...y sandy
+salet GG... yupon .y..y sauna
 salet ..y.. courd ..... fling
 salet ..y.. courd y.... flick
 salet ..y.. courd .y... bloom
@@ -372,13 +373,15 @@ salet ..y.. courd .GG.G would
 salet ..y.. courd GGG.G could
 salet ..y.. courd .G.yG world
 salet ..y.. courd ..yyG lurid
-salet y.y.. floss .G.G. blush
-salet y.y.. floss GG.G. flush
-salet y.y.. floss .yyG. lousy
-salet y.y.. floss .y..G lupus
-salet y.y.. floss .yy.G locus
-salet y.y.. floss .G.GG bliss
-salet y.y.. floss .GGGG gloss
+salet y.y.. boffs ....y plush
+salet y.y.. boffs G...y blush
+salet y.y.. boffs .G..y lousy
+salet y.y.. boffs ..y.y flush
+salet y.y.. boffs ....G lupus
+salet y.y.. boffs G...G bliss
+salet y.y.. boffs .y..G gloss
+salet y.y.. boffs .G..G locus
+salet y.y.. boffs .yy.G floss
 salet G.y.. plink .y... shyly
 salet G.y.. plink yy... spool
 salet G.y.. plink .G... slosh
@@ -411,6 +414,7 @@ salet .yy.. corni GGG.. coral
 salet .yy.. corni ...y. annul
 salet .yy.. corni .G.y. zonal
 salet .yy.. corni ..yy. lunar
+salet .yy.. corni ...G. blank
 salet .yy.. corni G..G. clang
 salet .yy.. corni .y.G. along
 salet .yy.. corni y...y iliac
@@ -421,14 +425,14 @@ salet .yy.. corni ..y.y flair
 salet .yy.. corni ..G.y viral
 salet .yy.. corni ...yy align
 salet .yy.. corni ....G alibi
-salet yyy.. pucks ....y flash
-salet yyy.. pucks G...y psalm
-salet yyy.. pucks .y..y usual
-salet yyy.. pucks ..y.y clash
-salet yyy.. pucks y.y.y clasp
-salet yyy.. pucks ...yy flask
-salet yyy.. pucks ....G glass
-salet yyy.. pucks ..y.G class
+salet yyy.. chals ..yyy usual
+salet yyy.. chals ..Gyy flask
+salet yyy.. chals G.Gyy clasp
+salet yyy.. chals .yGyy flash
+salet yyy.. chals GyGyy clash
+salet yyy.. chals ..GGy psalm
+salet yyy.. chals ..GyG glass
+salet yyy.. chals G.GyG class
 salet Gyy.. chill ...y. slang
 salet Gyy.. chill y..y. slack
 salet Gyy.. chill .y.y. slash
@@ -486,11 +490,11 @@ salet .GG.. rally yGG.. valor
 salet .GG.. rally GGG.. ralph
 salet .GG.. rally .GG.G balmy
 salet .GG.. rally .GGGG dally
-salet GGG.. downa ....y sally
-salet GGG.. downa y...y salad
-salet GGG.. downa .y..y salvo
-salet GGG.. downa .y.yy salon
-salet GGG.. downa ....G salsa
+salet GGG.. dayan .G... salvo
+salet GGG.. dayan .Gy.. sally
+salet GGG.. dayan .G.y. salsa
+salet GGG.. dayan yG.G. salad
+salet GGG.. dayan .G..G salon
 salet ...y. drone ....y beech
 salet ...y. drone y...y edify
 salet ...y. drone G...y debug
@@ -515,8 +519,8 @@ salet ...y. drone .yyyy heron
 salet ...y. drone ...Gy eking
 salet ...y. drone y..Gy fiend
 salet ...y. drone ..GGy ebony
-salet ...y. drone ....G queue
 salet ...y. drone G...G deuce
+salet ...y. drone .y..G verge
 salet ...y. drone yy..G ridge
 salet ...y. drone Gy..G dirge
 salet ...y. drone yG..G pride
@@ -528,7 +532,7 @@ salet ...y. drone .yy.G forge
 salet ...y. drone yyy.G horde
 salet ...y. drone G.G.G diode
 salet ...y. drone .yG.G chore
-salet ...y. drone .GG.G probe
+salet ...y. drone .GG.G prove
 salet ...y. drone yGG.G erode
 salet ...y. drone GGG.G drove
 salet ...y. drone y..yG nudge
@@ -619,15 +623,15 @@ salet .y.y. beard .yy.G ahead
 salet .y.y. beard .yyyG dread
 salet .y.y. beard GyyyG bread
 salet .y.y. beard .GGGG heard
-salet yy.y. achar y.... usage
-salet yy.y. achar G.... abuse
-salet yy.y. achar yy... cease
-salet yy.y. achar y.y.. phase
-salet yy.y. achar yyy.. chase
-salet yy.y. achar G..y. abase
-salet yy.y. achar ...G. essay
-salet yy.y. achar y...y erase
-salet yy.y. achar G...y arise
+salet yy.y. cuish ...y. essay
+salet yy.y. cuish .y.y. usage
+salet yy.y. cuish ..Gy. aside
+salet yy.y. cuish ...G. abase
+salet yy.y. cuish G..G. cease
+salet yy.y. cuish .y.G. abuse
+salet yy.y. cuish ..GG. arise
+salet yy.y. cuish ...Gy phase
+salet yy.y. cuish G..Gy chase
 salet Gy.y. pharm ..y.. sedan
 salet Gy.y. pharm y.y.. sepia
 salet Gy.y. pharm ..G.. snake
@@ -654,48 +658,49 @@ salet .G.y. cumin y...y dance
 salet .G.y. cumin G...y canoe
 salet .G.y. cumin ..y.y mange
 salet .G.y. cumin ...yy naive
-salet yG.y. chirm ..... pause
-salet yG.y. chirm G.... cause
-salet yG.y. chirm ...y. parse
-salet yG.y. chirm ..Gy. raise
-salet yG.y. chirm ....y masse
-salet ..yy. doing y.... elude
-salet ..yy. doing G.... dwell
-salet ..yy. doing .y... elbow
-salet ..yy. doing .G... boule
-salet ..yy. doing ..y.. bible
-salet ..yy. doing G.y.. devil
-salet ..yy. doing ..G.. exile
-salet ..yy. doing y.G.. elide
-salet ..yy. doing .yG.. olive
-salet ..yy. doing ...y. newly
-salet ..yy. doing .y.y. lemon
-salet ..yy. doing .G.y. noble
-salet ..yy. doing ..yy. elfin
-salet ..yy. doing y..G. blend
-salet ..yy. doing .y.G. clone
-salet ..yy. doing ....y bugle
-salet ..yy. doing y...y ledge
-salet ..yy. doing .y..y globe
-salet ..yy. doing yG..y lodge
-salet ..yy. doing ..y.y liege
-salet ..yy. doing ..G.y guile
-salet ..yy. doing y.G.y glide
-salet ..yy. doing ...yy lunge
-salet y.yy. aboon ..... flesh
-salet y.yy. aboon .y... bless
-salet y.yy. aboon ..y.. louse
-salet y.yy. aboon ..G.. close
-salet y.yy. aboon ..Gy. loose
-salet G.yy. chimo ..... spell
-salet G.yy. chimo .G... shelf
-salet G.yy. chimo ..G.. slide
-salet G.yy. chimo y.G.. slice
-salet G.yy. chimo ...y. smell
-salet G.yy. chimo ..Gy. smile
-salet G.yy. chimo ..GG. slime
-salet G.yy. chimo ....y slope
-salet .yyy. gnarl ..y.y apple
+salet yG.y. bumps ....y raise
+salet yG.y. bumps .y..y cause
+salet yG.y. bumps ..y.y masse
+salet yG.y. bumps ...yy parse
+salet yG.y. bumps .y.yy pause
+salet ..yy. deice .y... elbow
+salet ..yy. deice yy... blend
+salet ..yy. deice Gy... dwell
+salet ..yy. deice .G... lemon
+salet ..yy. deice .yy.. elfin
+salet ..yy. deice .Gy.. peril
+salet ..yy. deice GGy.. devil
+salet ..yy. deice .y.y. clerk
+salet ..yy. deice .y.G. fleck
+salet ..yy. deice .y..y elegy
+salet ..yy. deice .G..y leery
+salet ..yy. deice .G.Gy leech
+salet ..yy. deice ....G bloke
+salet ..yy. deice y...G lodge
+salet ..yy. deice .y..G elope
+salet ..yy. deice yy..G elude
+salet ..yy. deice yG..G ledge
+salet ..yy. deice ..y.G bible
+salet ..yy. deice .yy.G liege
+salet ..yy. deice ..G.G guile
+salet ..yy. deice y.G.G glide
+salet ..yy. deice .yG.G exile
+salet ..yy. deice yyG.G elide
+salet ..yy. deice ...yG clone
+salet y.yy. aloes .G.yy flesh
+salet y.yy. aloes .yyyy louse
+salet y.yy. aloes .yGyy loose
+salet y.yy. aloes .GGyy close
+salet y.yy. aloes .G.yG bless
+salet G.yy. chime ....y spell
+salet G.yy. chime .G..y shelf
+salet G.yy. chime ...yy smell
+salet G.yy. chime ....G slope
+salet G.yy. chime ..G.G slide
+salet G.yy. chime y.G.G slice
+salet G.yy. chime ..GyG smile
+salet G.yy. chime ..GGG slime
+salet .yyy. gnarl ..y.y ample
 salet .yyy. gnarl y.y.y agile
 salet .yyy. gnarl G.y.y gleam
 salet .yyy. gnarl .yy.y alone
@@ -721,13 +726,13 @@ salet yyyy. aisle y.yyy leash
 salet yyyy. aisle y.yyG lease
 salet Gyyy. scale G.GyG slave
 salet Gyyy. scale G.GGG shale
-salet .Gyy. cadgy .G... fable
-salet .Gyy. cadgy yG... lance
-salet .Gyy. cadgy GG... cable
-salet .Gyy. cadgy .GG.. ladle
-salet .Gyy. cadgy .G.y. eagle
-salet .Gyy. cadgy .G.G. large
-salet .Gyy. cadgy .G..G early
+salet .Gyy. creme .yy.. early
+salet .Gyy. creme ....G fable
+salet .Gyy. creme y...G lance
+salet .Gyy. creme G...G cable
+salet .Gyy. creme .y..G large
+salet .Gyy. creme ..y.G eagle
+salet .Gyy. creme ...yG maple
 salet ..Gy. himbo ..... delve
 salet ..Gy. himbo y.... welch
 salet ..Gy. himbo .y... relic
@@ -755,7 +760,7 @@ salet ...G. rownd GG... roger
 salet ...G. rownd yGy.. wooer
 salet ...G. rownd y.G.. fewer
 salet ...G. rownd GGG.. rower
-salet ...G. rownd y..y. finer
+salet ...G. rownd y..y. miner
 salet ...G. rownd G..y. ripen
 salet ...G. rownd yG.y. goner
 salet ...G. rownd G.yy. renew
@@ -776,12 +781,14 @@ salet ...G. rownd ..yyy widen
 salet ...G. rownd ....G embed
 salet ...G. rownd ...yG kneed
 salet ...G. rownd ..GyG unwed
-salet y..G. risen y.yG. usher
-salet y..G. risen ..GG. bused
-salet y..G. risen y.GG. poser
-salet y..G. risen yGGG. miser
-salet y..G. risen GGGG. riser
-salet y..G. risen ..GGy nosey
+salet y..G. mhorr ..... bused
+salet y..G. mhorr ..y.. nosey
+salet y..G. mhorr ...y. risen
+salet y..G. mhorr ....G wiser
+salet y..G. mhorr G...G miser
+salet y..G. mhorr .y..G usher
+salet y..G. mhorr ..y.G poser
+salet y..G. mhorr ...yG riser
 salet G..G. hewer ...G. spied
 salet G..G. hewer y..G. shied
 salet G..G. hewer .y.G. speed
@@ -798,13 +805,13 @@ salet G..G. hewer yy.GG sheer
 salet G..G. hewer .G.GG sever
 salet G..G. hewer ..GGG sower
 salet G..G. hewer .GGGG sewer
-salet .y.G. nixer ...G. abbey
-salet .y.G. nixer y..G. apnea
-salet .y.G. nixer y.yG. annex
-salet .y.G. nixer ...Gy agree
-salet .y.G. nixer ...GG amber
-salet .y.G. nixer y..GG anger
-salet .y.G. nixer .G.GG aider
+salet .y.G. inarm ..y.. abbey
+salet .y.G. inarm .yy.. apnea
+salet .y.G. inarm .Gy.. annex
+salet .y.G. inarm ..yy. agree
+salet .y.G. inarm y.yy. aider
+salet .y.G. inarm .Gyy. anger
+salet .y.G. inarm ..yyy amber
 salet yy.G. ashen GG.G. askew
 salet .G.G. gormy ..... haven
 salet .G.G. gormy .y... oaken
@@ -844,19 +851,19 @@ salet ..yG. bevor .yGyG lover
 salet G.yG. sleek Gy.G. spiel
 salet G.yG. sleek GGGG. sleep
 salet .yyG. alien Gy.Gy angel
-salet .GyG. nymph ..... bagel
-salet .GyG. nymph y.... laden
-salet .GyG. nymph G.... navel
-salet .GyG. nymph .y... layer
-salet .GyG. nymph ..G.. camel
-salet .GyG. nymph ...y. lapel
-salet .GyG. nymph y..y. panel
-salet .GyG. nymph ....y hazel
-salet ..GG. bitou ..... melee
-salet ..GG. bitou .y... idler
-salet ..GG. bitou .G... filer
-salet ..GG. bitou ...y. golem
-salet ..GG. bitou ....y ruler
+salet .GyG. lynch y.... bagel
+salet .GyG. lynch G.... label
+salet .GyG. lynch Gy... layer
+salet .GyG. lynch y.y.. navel
+salet .GyG. lynch G.y.. laden
+salet .GyG. lynch y.G.. panel
+salet .GyG. lynch y..y. camel
+salet .GyG. lynch y...y hazel
+salet ..GG. bedim .y... ruler
+salet ..GG. bedim .y.y. filer
+salet ..GG. bedim .yyy. idler
+salet ..GG. bedim .G..y melee
+salet ..GG. bedim .y..G golem
 salet .yGG. abled G.GG. alley
 salet .GGG. baler .GGGG paler
 salet ....y north ...y. timid
@@ -921,23 +928,23 @@ salet G...y pinko y...y stomp
 salet G...y pinko .y..y stoic
 salet G...y pinko ..y.y stony
 salet G...y pinko ...yy stock
-salet .y..y conia ....y tramp
-salet .y..y conia y...y track
-salet .y..y conia yy..y actor
-salet .y..y conia .G..y today
-salet .y..y conia ..y.y thank
-salet .y..y conia ..G.y aunty
-salet .y..y conia ...yy amity
-salet .y..y conia ..yyy titan
-salet .y..y conia y..Gy attic
-salet .y..y conia ..yGy train
-salet .y..y conia y.yGy antic
-salet .y..y conia .y..G quota
-salet .y..y conia .G..G aorta
-salet .y..y conia ..G.G junta
-salet .y..y conia .GG.G tonga
-salet .y..y conia ...yG tiara
-salet .y..y conia ...GG tibia
+salet .y..y tonic y.... wrath
+salet .y..y tonic G.... tramp
+salet .y..y tonic yy... quota
+salet .y..y tonic yG... aorta
+salet .y..y tonic GG... today
+salet .y..y tonic G.y.. thank
+salet .y..y tonic y.G.. aunty
+salet .y..y tonic GGG.. tonga
+salet .y..y tonic y..y. amity
+salet .y..y tonic G..y. tiara
+salet .y..y tonic G.yy. titan
+salet .y..y tonic G..G. tibia
+salet .y..y tonic G.yG. train
+salet .y..y tonic G...y track
+salet .y..y tonic yy..y actor
+salet .y..y tonic y..GG attic
+salet .y..y tonic y.yGG antic
 salet yy..y artsy y.yy. vista
 salet yy..y artsy yGyG. trash
 salet Gy..y prink ..... staff
@@ -964,11 +971,11 @@ salet .G..y corby ..y.G ratty
 salet .G..y corby ..G.G party
 salet .G..y corby ...yG batty
 salet .G..y corby ...GG tabby
-salet yG..y potty G..G. pasta
-salet yG..y potty G.G.G patsy
-salet yG..y potty ...GG hasty
-salet yG..y potty G..GG pasty
-salet yG..y potty ..yGG tasty
+salet yG..y hyson .yy.. patsy
+salet yG..y hyson ..G.. pasta
+salet yG..y hyson .yG.. pasty
+salet yG..y hyson GyG.. hasty
+salet yG..y hyson .yG.y nasty
 salet GG..y satin GGG.. satyr
 salet ..y.y troll y..y. blitz
 salet ..y.y troll y.yy. lofty
@@ -979,18 +986,18 @@ salet ..y.y troll y...G until
 salet ..y.y troll Gy..G twirl
 salet G.y.y sloth Gy.y. still
 salet G.y.y sloth GyGy. stool
-salet .yy.y rotas y.yy. trail
-salet .yy.y rotas .yyy. atoll
-salet .yy.y rotas .Gyy. loath
-salet .yy.y rotas ..Gy. aptly
-salet .yy.y rotas y.Gy. ultra
-salet .yy.y rotas ..yG. tidal
-salet .yy.y rotas y.yG. trial
-salet .yy.y rotas .GyG. tonal
-salet .yy.y rotas ..GG. vital
-salet .yy.y rotas y.GG. altar
-salet .yy.y rotas .yGG. octal
-salet .yy.y rotas .GGG. total
+salet .yy.y rotal .Gyyy loath
+salet .yy.y rotal ..Gyy aptly
+salet .yy.y rotal y.Gyy ultra
+salet .yy.y rotal y.GGy altar
+salet .yy.y rotal y.yyG trail
+salet .yy.y rotal .yyyG atoll
+salet .yy.y rotal ..yGG tidal
+salet .yy.y rotal y.yGG trial
+salet .yy.y rotal .GyGG tonal
+salet .yy.y rotal ..GGG vital
+salet .yy.y rotal .yGGG octal
+salet .yy.y rotal .GGGG total
 salet Gyy.y stalk GGGG. stall
 salet .Gy.y fatal .GG.y latch
 salet .Gy.y fatal .GGGG natal
@@ -1033,40 +1040,40 @@ salet y..yy troth ..yG. pesto
 salet y..yy troth G...y these
 salet y..yy troth y.y.y ethos
 salet y..yy troth G.G.y those
-salet G..yy korun ..... smite
-salet G..yy korun .y... smote
-salet G..yy korun yy... stoke
-salet G..yy korun .yy.. store
-salet G..yy korun ...y. suite
-salet G..yy korun ...G. setup
-salet G..yy korun .y..y stone
-salet G..yy korun ....G stein
-salet G..yy korun ..y.G stern
-salet .y.yy trace G.y.y theta
-salet .y.yy trace yyy.y extra
-salet .y.yy trace Gyy.y terra
-salet .y.yy trace GGy.y tread
-salet .y.yy trace y.G.y death
-salet .y.yy trace GyG.y teary
-salet .y.yy trace G.GGy teach
-salet .y.yy trace y.y.G atone
-salet .y.yy trace y.G.G abate
-salet .y.yy trace yGG.G grate
-salet .y.yy trace GGG.G trade
-salet .y.yy trace y.yyG acute
-salet .y.yy trace yGGyG crate
-salet Gy.yy grike ....y stead
-salet Gy.yy grike ...yy steak
-salet Gy.yy grike ....G state
-salet Gy.yy grike y...G stage
-salet Gy.yy grike .y..G stare
-salet Gy.yy grike ...yG skate
-salet Gy.yy grike ...GG stake
+salet G..yy novum ..... spite
+salet G..yy novum y.... stein
+salet G..yy novum .y... stoke
+salet G..yy novum yy... stone
+salet G..yy novum .yy.. stove
+salet G..yy novum ...y. suite
+salet G..yy novum ...G. setup
+salet G..yy novum ....y smite
+salet G..yy novum .y..y smote
+salet .y.yy crate ..yyy tweak
+salet .y.yy crate .yyyy extra
+salet .y.yy crate .Gyyy tread
+salet .y.yy crate y.Gyy teach
+salet .y.yy crate .yGyy teary
+salet .y.yy crate ..yGy theta
+salet .y.yy crate ..GGy death
+salet .y.yy crate ..yyG atone
+salet .y.yy crate .GGyG trade
+salet .y.yy crate yGGyG trace
+salet .y.yy crate y.yGG acute
+salet .y.yy crate ..GGG abate
+salet .y.yy crate .GGGG grate
+salet Gy.yy gryke ....y stead
+salet Gy.yy gryke ...yy steak
+salet Gy.yy gryke ....G state
+salet Gy.yy gryke y...G stage
+salet Gy.yy gryke .y..G stare
+salet Gy.yy gryke ...yG skate
+salet Gy.yy gryke ...GG stake
 salet .G.yy bathe .Gyyy earth
 salet .G.yy bathe .GyyG haute
-salet yG.yy chape G.y.G caste
-salet yG.yy chape .yy.G haste
-salet yG.yy chape ..yyG paste
+salet yG.yy bitch G.y.. baste
+salet yG.yy bitch ..yy. caste
+salet yG.yy bitch ..y.y haste
 salet ..yyy title y..yy lefty
 salet ..yyy title ..Gyy extol
 salet ..yyy title y..yG flute
@@ -1074,11 +1081,11 @@ salet ..yyy title yy.yG elite
 salet ..yyy title .GGyG lithe
 salet ..yyy title yy.GG utile
 salet G.yyy stole GG.GG style
-salet .yyyy flype .y..y metal
-salet .yyyy flype Gy..y fetal
-salet .yyyy flype .y.yy petal
-salet .yyyy flype .G..G elate
-salet .yyyy flype .G.yG plate
+salet .yyyy empts y..y. fetal
+salet .yyyy empts yy.y. metal
+salet .yyyy empts y.yy. petal
+salet .yyyy empts G..G. elate
+salet .yyyy empts y.yG. plate
 salet Gyyyy slate Gyyyy steal
 salet Gyyyy slate GyGyG stale
 salet .Gyyy lathe yGy.G table
@@ -1100,15 +1107,15 @@ salet ...Gy outre .yGyy utter
 salet ...Gy outre GGGyy outer
 salet ...Gy outre ..y.G tepee
 salet ...Gy outre ..yyG three
-salet G..Gy apery ..G.. steed
-salet G..Gy apery .yG.. steep
-salet G..Gy apery ..Gy. steer
-salet .G.Gy therm y.y.. eaten
-salet .G.Gy therm G.y.. taken
-salet .G.Gy therm G.yy. taker
-salet .G.Gy therm yyyy. hater
-salet .G.Gy therm y.y.y matey
-salet .G.Gy therm G.yyy tamer
+salet G..Gy adred ...G. steep
+salet G..Gy adred ..yG. steer
+salet G..Gy adred ...GG steed
+salet .G.Gy metre .yy.. taken
+salet .G.Gy metre GyG.. matey
+salet .G.Gy metre .yyy. taker
+salet .G.Gy metre yyyy. tamer
+salet .G.Gy metre .yG.y eaten
+salet .G.Gy metre .yGyy eater
 salet ..yGy hotel .GyGG towel
 salet ..yGy hotel ..GGG betel
 salet ..yGy hotel .GGGG motel
@@ -1140,20 +1147,20 @@ salet ....G groin .G.yy print
 salet ....G groin ..yyy joint
 salet ....G groin y.yyy ingot
 salet ....G groin ...Gy unfit
-salet y...G boric .y... ghost
-salet y...G boric .G... joust
-salet y...G boric GG... boost
-salet y...G boric ..y.. trust
-salet y...G boric .yy.. frost
-salet y...G boric .Gy.. roost
-salet y...G boric G.G.. burst
-salet y...G boric .GG.. worst
-salet y...G boric ...y. midst
-salet y...G boric ..yy. wrist
-salet y...G boric ..Gy. first
-salet y...G boric ...G. visit
-salet y...G boric .G.G. posit
-salet y...G boric ..y.y crust
+salet y...G doric .y... ghost
+salet y...G doric .G... boost
+salet y...G doric ..y.. trust
+salet y...G doric .yy.. frost
+salet y...G doric .Gy.. roost
+salet y...G doric ..G.. burst
+salet y...G doric .GG.. worst
+salet y...G doric ...y. twist
+salet y...G doric y..y. midst
+salet y...G doric ..yy. wrist
+salet y...G doric ..Gy. first
+salet y...G doric ...G. visit
+salet y...G doric .G.G. posit
+salet y...G doric ..y.y crust
 salet G...G churn ..... swift
 salet G...G churn .y... sight
 salet G...G churn .G... shift
@@ -1184,17 +1191,17 @@ salet .y..G croup ..GG. about
 salet .y..G croup ....y adapt
 salet .y..G croup .y..y apart
 salet .y..G croup ..G.y adopt
-salet yy..G scrob y.... angst
-salet yy..G scrob y..y. toast
-salet yy..G scrob yy.y. coast
-salet yy..G scrob y.yy. roast
-salet yy..G scrob yy.G. ascot
-salet yy..G scrob y..yy boast
-salet Gy..G frump ..... scant
-salet Gy..G frump y.... shaft
-salet Gy..G frump .y... start
-salet Gy..G frump ..G.. squat
-salet Gy..G frump .y.y. smart
+salet yy..G bract ..y.G angst
+salet yy..G bract ..G.G toast
+salet yy..G bract G.G.G boast
+salet yy..G bract .yG.G roast
+salet yy..G bract ..yyG ascot
+salet yy..G bract ..GyG coast
+salet Gy..G cimar ...y. shaft
+salet Gy..G cimar y..y. scant
+salet Gy..G cimar ...G. squat
+salet Gy..G cimar ...yy start
+salet Gy..G cimar ..yyy smart
 salet .G..G touch y.... faint
 salet .G..G touch G.... taint
 salet .G..G touch Gy... tarot
@@ -1206,45 +1213,45 @@ salet .G..G touch y.yy. caput
 salet .G..G touch y...y habit
 salet .G..G touch y.G.y haunt
 salet .G..G touch y..yy yacht
-salet ..y.G clung .y... limit
-salet ..y.G clung .G... flirt
-salet ..y.G clung .yy.. built
-salet ..y.G clung .Gy.. flout
-salet ..y.G clung GGy.. clout
-salet ..y.G clung .yG.. moult
-salet ..y.G clung .GG.. blurt
-salet ..y.G clung .G.G. flint
-salet ..y.G clung .GGG. blunt
-salet ..y.G clung .y..y light
-salet ..y.G clung .yy.y guilt
-salet ..y.G clung .G.Gy glint
+salet ..y.G flung .y... limit
+salet ..y.G flung GG... flirt
+salet ..y.G flung .yy.. built
+salet ..y.G flung .Gy.. clout
+salet ..y.G flung GGy.. flout
+salet ..y.G flung .yG.. moult
+salet ..y.G flung .GG.. blurt
+salet ..y.G flung GG.G. flint
+salet ..y.G flung .GGG. blunt
+salet ..y.G flung .y..y light
+salet ..y.G flung .yy.y guilt
+salet ..y.G flung .G.Gy glint
 salet G.y.G spilt G.GGG stilt
-salet .yy.G fungo ..... plait
-salet .yy.G fungo .y... adult
-salet .yy.G fungo ..y.. plant
-salet .yy.G fungo ....y bloat
-salet .yy.G fungo y...y aloft
-salet .yy.G fungo G...y float
-salet .yy.G fungo ...yy gloat
+salet .yy.G fungi ..... bloat
+salet .yy.G fungi y.... aloft
+salet .yy.G fungi G.... float
+salet .yy.G fungi .y... adult
+salet .yy.G fungi ..y.. plant
+salet .yy.G fungi ...y. gloat
+salet .yy.G fungi ....y plait
 salet Gyy.G shalt G.GyG slant
 salet .Gy.G fault .GGGG vault
 salet ..G.G pilot .yG.G unlit
-salet ...yG runic ..... depot
-salet ...yG runic y.... exert
-salet ...yG runic .y... debut
-salet ...yG runic yy... erupt
-salet ...yG runic Gy... rebut
-salet ...yG runic ..y.. event
-salet ...yG runic ...y. eight
-salet ...yG runic ..yy. inept
-salet ...yG runic y.yy. inert
-salet ...yG runic ...G. befit
-salet ...yG runic y..G. merit
-salet ...yG runic G..G. refit
-salet ...yG runic ....y eject
-salet ...yG runic y...y crept
-salet ...yG runic Gy..y recut
-salet ...yG runic ...yy edict
+salet ...yG curio ..... event
+salet ...yG curio y.... eject
+salet ...yG curio .y... debut
+salet ...yG curio ..y.. exert
+salet ...yG curio y.y.. erect
+salet ...yG curio G.y.. crept
+salet ...yG curio .yy.. erupt
+salet ...yG curio yyy.. recut
+salet ...yG curio ...y. eight
+salet ...yG curio y..y. edict
+salet ...yG curio ..yy. inert
+salet ...yG curio ...G. befit
+salet ...yG curio ..yG. refit
+salet ...yG curio ..GG. merit
+salet ...yG curio ....y depot
+salet ...yG curio ..y.y overt
 salet y..yG quich ..... wrest
 salet y..yG quich .G... guest
 salet y..yG quich GG... quest
@@ -1254,34 +1261,34 @@ salet y..yG quich ..G.y heist
 salet y..yG quich ...yy chest
 salet G..yG scent G.G.G swept
 salet G..yG scent G.GGG spent
-salet .y.yG dench .y... great
-salet .y.yG dench yy... adept
-salet .y.yG dench .G... begat
-salet .y.yG dench .yy.. agent
-salet .y.yG dench .Gy.. meant
-salet .y.yG dench .y.G. exact
-salet .y.yG dench .G.G. react
-salet .y.yG dench .yyG. enact
-salet .y.yG dench .y..y wheat
-salet .y.yG dench .G..y heart
-salet .y.yG dench .y.yy cheat
-salet yy.yG balky .y... feast
-salet yy.yG balky Gy... beast
-salet yy.yG balky .y..y yeast
-salet ..yyG caxon ..... dwelt
-salet ..yyG caxon y.... elect
-salet ..yyG caxon G.... cleft
-salet ..yyG caxon ..y.. exult
-salet ..yyG caxon ....y knelt
+salet .y.yG gnarl ..y.. cheat
+salet .y.yG gnarl y.y.. begat
+salet .y.yG gnarl yyy.. agent
+salet .y.yG gnarl ..G.. exact
+salet .y.yG gnarl .yG.. meant
+salet .y.yG gnarl .GG.. enact
+salet .y.yG gnarl ..yy. treat
+salet .y.yG gnarl G.yy. great
+salet .y.yG gnarl ..Gy. react
+salet .y.yG gnarl ..yG. avert
+salet .y.yG gnarl ..GG. heart
+salet yy.yG abaft ..G.G yeast
+salet yy.yG abaft .yG.G beast
+salet yy.yG abaft ..GyG feast
+salet ..yyG bunco ..... dwelt
+salet ..yyG bunco .y... exult
+salet ..yyG bunco ..y.. knelt
+salet ..yyG bunco ...y. cleft
+salet ..yyG bunco ...G. elect
 salet G.yyG slept GyG.G smelt
 salet G.yyG slept GyGyG spelt
-salet .yyyG repla .y.yy bleat
-salet .yyyG repla yy.yy alert
-salet .yyyG repla .G.yy leant
-salet .yyyG repla .yyyy pleat
-salet .yyyG repla .Gyyy leapt
-salet .yyyG repla .y.Gy exalt
-salet .yyyG repla .G.Gy dealt
+salet .yyyG reply .y.y. bleat
+salet .yyyG reply yy.y. alert
+salet .yyyG reply .G.y. leant
+salet .yyyG reply .yyy. pleat
+salet .yyyG reply .Gyy. leapt
+salet .yyyG reply .y.G. exalt
+salet .yyyG reply .G.G. dealt
 salet ...GG cerne .y... duvet
 salet ...GG cerne yy... octet
 salet ...GG cerne Gy... comet
@@ -1293,11 +1300,11 @@ salet ...GG cerne .yy.y greet
 salet ...GG cerne .yG.y egret
 salet ...GG cerne .GG.y beret
 salet ...GG cerne .G.yy tenet
-salet y..GG boner ...G. upset
-salet y..GG boner G..G. beset
-salet y..GG boner ..yG. unset
-salet y..GG boner .yyG. onset
-salet y..GG boner ...Gy reset
+salet y..GG abune ....y reset
+salet y..GG abune .y..y beset
+salet y..GG abune ..y.y upset
+salet y..GG abune ...yy onset
+salet y..GG abune ..yyy unset
 salet G..GG sheet G.GGG sweet
 salet .G.GG cadet yG.GG facet
 salet ..GGG filet .yGGG inlet
@@ -1313,11 +1320,13 @@ salet ..... courd ..... nymph .yGG. wimpy
 salet ..... courd ..... nymph ....y whiff
 salet ..... courd ..... nymph yy..y whiny
 salet ..... courd ..... nymph .y.Gy hippy
-salet ..... courd y.... pinch .G.y. mimic
-salet ..... courd y.... pinch GG.y. picky
-salet ..... courd y.... pinch .yyy. icing
-salet ..... courd y.... pinch .y.GG which
-salet ..... courd y.... pinch .GGGG finch
+salet ..... courd y.... powny ..... mimic
+salet ..... courd y.... powny ..y.. which
+salet ..... courd y.... powny ...y. finch
+salet ..... courd y.... powny G..y. pinch
+salet ..... courd y.... powny ..yy. winch
+salet ..... courd y.... powny ...G. icing
+salet ..... courd y.... powny G...G picky
 salet ..... courd G.... cinch GG.y. civic
 salet ..... courd G.... cinch GyGy. cynic
 salet ..... courd G.... cinch Gy.Gy chick
@@ -1352,14 +1361,14 @@ salet ..... courd ..y.. gimpy ...yG puffy
 salet ..... courd ..y.. gimpy ...GG puppy
 salet ..... courd ..y.. gimpy G..GG guppy
 salet ..... courd ..y.. gimpy ..GGG jumpy
-salet ..... courd y.y.. hempy ..... quick
-salet ..... courd y.y.. hempy y.... bunch
-salet ..... courd y.y.. hempy G.... hunch
-salet ..... courd y.y.. hempy y.y.. munch
-salet ..... courd y.y.. hempy ...y. pubic
-salet ..... courd y.y.. hempy y..y. punch
-salet ..... courd y.y.. hempy ....G juicy
-salet ..... courd y.y.. hempy ..y.G mucky
+salet ..... courd y.y.. humpy .G... quick
+salet ..... courd y.y.. humpy yG... bunch
+salet ..... courd y.y.. humpy GG... hunch
+salet ..... courd y.y.. humpy yGy.. munch
+salet ..... courd y.y.. humpy .G.y. pubic
+salet ..... courd y.y.. humpy yG.y. punch
+salet ..... courd y.y.. humpy .G..G juicy
+salet ..... courd y.y.. humpy .Gy.G mucky
 salet ..... courd G.y.. cubic GG.G. cumin
 salet ..... courd .yy.. gumbo .y..y union
 salet ..... courd .yy.. gumbo .yy.y opium
@@ -1370,12 +1379,12 @@ salet ..... courd G.G.. chuck GGG.G chunk
 salet ..... courd .GG.. bough .GGy. young
 salet ..... courd yGG.. pouch .GGGG vouch
 salet ..... courd GGG.. couch GGG.G cough
-salet ..... courd ...y. bigly Gy... brink
-salet ..... courd ...y. bigly .yy.. wring
-salet ..... courd ...y. bigly Gyy.. bring
-salet ..... courd ...y. bigly .y..G privy
-salet ..... courd ...y. bigly Gy..G briny
-salet ..... courd ...y. bigly .yy.G grimy
+salet ..... courd ...y. bingy Gyy.. brink
+salet ..... courd ...y. bingy .yyy. wring
+salet ..... courd ...y. bingy Gyyy. bring
+salet ..... courd ...y. bingy .y..G privy
+salet ..... courd ...y. bingy Gyy.G briny
+salet ..... courd ...y. bingy .y.yG grimy
 salet ..... courd y..y. birch .yyG. prick
 salet ..... courd y..y. birch GyyG. brick
 salet ..... courd G..y. crick GGG.. crimp
@@ -1394,11 +1403,11 @@ salet ..... courd .y.y. gimpy .y.y. prior
 salet ..... courd .y.y. gimpy .yyy. primo
 salet ..... courd .y.y. gimpy .y..G irony
 salet ..... courd .y.y. gimpy ...yG proxy
-salet ..... courd Gy.y. holon .y... crock
-salet ..... courd Gy.y. holon yy... choir
-salet ..... courd Gy.y. holon .y.G. crook
-salet ..... courd Gy.y. holon .y..y crony
-salet ..... courd Gy.y. holon .y..G crown
+salet ..... courd Gy.y. choon G.G.. crock
+salet ..... courd Gy.y. choon GGG.. choir
+salet ..... courd Gy.y. choon G.GG. crook
+salet ..... courd Gy.y. choon G.G.y crony
+salet ..... courd Gy.y. choon G.G.G crown
 salet ..... courd .G.y. horny .GG.. forgo
 salet ..... courd .G.y. horny yGG.. morph
 salet ..... courd .G.y. horny .Gyy. robin
@@ -1437,11 +1446,11 @@ salet ..... courd .y.yy droop GGG.. drown
 salet ..... courd .G.yy rowdy yG.y. donor
 salet ..... courd .G.yy rowdy yGyGG wordy
 salet ..... courd ..y.G humid .y.GG undid
-salet ..... courd .GG.G whomp ..y.. bound
-salet ..... courd .GG.G whomp G.y.. wound
-salet ..... courd .GG.G whomp .yy.. hound
-salet ..... courd .GG.G whomp ..yy. mound
-salet ..... courd .GG.G whomp ..y.y pound
+salet ..... courd .GG.G bumph .y... found
+salet ..... courd .GG.G bumph Gy... bound
+salet ..... courd .GG.G bumph .yy.. mound
+salet ..... courd .GG.G bumph .y.y. pound
+salet ..... courd .GG.G bumph .y..y hound
 salet ..... courd ...yG grind yyy.G rigid
 salet ..... courd .y.yG brood .GG.G frond
 salet y.... mucho ..... brisk ..yy. wispy
@@ -1469,14 +1478,14 @@ salet G.... unrip ..... shock G.GGG smock
 salet G.... unrip y.... shuck GGG.. shush
 salet G.... unrip .y... shown G.y.y synod
 salet G.... unrip .y... shown G.GyG swoon
-salet G.... unrip yy... bouge ..y.. sunny
-salet G.... unrip yy... bouge ..G.. skunk
-salet G.... unrip yy... bouge .GG.. sound
-salet G.... unrip yy... bouge ..Gy. swung
+salet G.... unrip yy... awork ..... sunny
+salet G.... unrip yy... awork .G... swung
+salet G.... unrip yy... awork ..y.. sound
+salet G.... unrip yy... awork ....G skunk
 salet G.... unrip yG... snuck GGG.. snuff
-salet G.... unrip .yy.. aches ....y sworn
-salet G.... unrip .yy.. aches .G..y scorn
-salet G.... unrip .yy.. aches ..y.y shorn
+salet G.... unrip .yy.. aitch ..... sworn
+salet G.... unrip .yy.. aitch ...y. scorn
+salet G.... unrip .yy.. aitch ....y shorn
 salet G.... unrip y.G.. scrub G.GG. shrug
 salet G.... unrip y.G.. scrub GGGG. scrum
 salet G.... unrip y.G.. scrub G.GGG shrub
@@ -1503,14 +1512,14 @@ salet .y... brond .y... chair ..y.G augur
 salet .y... brond .y... chair y.yyG vicar
 salet .y... brond .y... chair G.yyG cigar
 salet .y... brond yy... rumba yyyyG umbra
-salet .y... brond .G... crapy .Gy.. friar
-salet .y... brond .G... crapy yGG.. wrack
-salet .y... brond .G... crapy GGG.. crack
-salet .y... brond .G... crapy GGGy. cramp
-salet .y... brond .G... crapy .GGG. graph
-salet .y... brond .G... crapy .Gy.G array
-salet .y... brond .G... crapy .GG.G gravy
-salet .y... brond .G... crapy GGG.G crazy
+salet .y... brond .G... cymae ...y. graph
+salet .y... brond .G... cymae y..y. wrack
+salet .y... brond .G... cymae G..y. crack
+salet .y... brond .G... cymae .y.y. gravy
+salet .y... brond .G... cymae Gy.y. crazy
+salet .y... brond .G... cymae G.yy. cramp
+salet .y... brond .G... cymae ...G. friar
+salet .y... brond .G... cymae .y.G. array
 salet .y... brond ..y.. coach .yy.. axiom
 salet .y... brond ..y.. coach GGy.. comma
 salet .y... brond ..y.. coach .GG.. foamy
@@ -1532,9 +1541,9 @@ salet .y... brond ..yy. annoy yy.y. woman
 salet .y... brond ..yy. annoy Gy.G. axion
 salet .y... brond ...G. aging y.GG. china
 salet .y... brond ...G. aging G.GGG aping
-salet .y... brond .G.G. capas .y... frank
-salet .y... brond .G.G. capas Gy... crank
-salet .y... brond .G.G. capas .yy.. prank
+salet .y... brond .G.G. caffs .y... prank
+salet .y... brond .G.G. caffs Gy... crank
+salet .y... brond .G.G. caffs .yy.. frank
 salet .y... brond ..GG. agony GyGG. among
 salet .y... brond .y..y diary G.GG. dwarf
 salet .y... brond ..y.y audio y.y.y dogma
@@ -1571,39 +1580,39 @@ salet .G... corny ..y.. rabid GGGy. rabbi
 salet .G... corny ..y.. rabid GG..y radar
 salet .G... corny ..y.. rabid GG.Gy radii
 salet .G... corny ..y.. rabid GG.GG rapid
-salet .G... corny .yy.. ravin yG... major
-salet .G... corny .yy.. ravin GG... razor
-salet .G... corny .yy.. ravin yGy.. vapor
-salet .G... corny .yy.. ravin yGG.. favor
-salet .G... corny .yy.. ravin GG.G. radio
+salet .G... corny .yy.. jivey ..... razor
+salet .G... corny .yy.. jivey y.... major
+salet .G... corny .yy.. jivey .y... radio
+salet .G... corny .yy.. jivey ..y.. vapor
+salet .G... corny .yy.. jivey ..G.. favor
 salet .G... corny ..G.. karma yGG.G parka
 salet .G... corny ...y. manga .Gyyy pagan
 salet .G... corny ...y. manga GGG.G mania
 salet .G... corny y..y. manic .GGGG panic
 salet .G... corny .y.y. banjo .Gy.y wagon
 salet .G... corny .y.y. banjo .GG.G mango
-salet .G... corny ....G podgy ....G jazzy
-salet .G... corny ....G podgy y...G happy
-salet .G... corny ....G podgy ..y.G bawdy
-salet .G... corny ....G podgy ..G.G daddy
-salet .G... corny ....G podgy G.G.G paddy
-salet .G... corny ....G podgy ...yG gawky
-salet .G... corny ....G podgy ..yyG gaudy
-salet .G... corny ....G podgy ...GG baggy
+salet .G... corny ....G pudge ..... jazzy
+salet .G... corny ....G pudge y.... happy
+salet .G... corny ....G pudge ..y.. bawdy
+salet .G... corny ....G pudge ..G.. daddy
+salet .G... corny ....G pudge G.G.. paddy
+salet .G... corny ....G pudge ...y. gawky
+salet .G... corny ....G pudge .yyy. gaudy
+salet .G... corny ....G pudge ...G. baggy
 salet .G... corny G...G cabby GG..G caddy
-salet .G... corny ..y.G chaft ..y.. dairy
-salet .G... corny ..y.G chaft .yy.. hairy
-salet .G... corny ..y.G chaft ..yy. fairy
-salet .G... corny ..G.G pohed ..... marry
-salet .G... corny ..G.G pohed G.... parry
-salet .G... corny ..G.G pohed ..y.. harry
-salet .G... corny ..G.G pohed y.y.. harpy
-salet .G... corny ..G.G pohed ..y.y hardy
+salet .G... corny ..y.G ahind y.G.. fairy
+salet .G... corny ..y.G ahind yyG.. hairy
+salet .G... corny ..y.G ahind y.G.y dairy
+salet .G... corny ..G.G dimps ..... harry
+salet .G... corny ..G.G dimps y.... hardy
+salet .G... corny ..G.G dimps ..y.. marry
+salet .G... corny ..G.G dimps ...y. parry
+salet .G... corny ..G.G dimps ...G. harpy
 salet .G... corny ...yG dandy .GG.G mangy
 salet .G... corny ...yG dandy .GGGG handy
 salet .G... corny ...GG fanny .GGGG nanny
-salet yG... ramin .G.G. basic GGGG. basis
-salet GG... urson ..y.. sappy GG..G savvy
+salet yG... hoing ..y.. basic GGGG. basis
+salet GG... yupon y.... sassy GG..G savvy
 salet ..y.. courd ..... fling .y... lymph
 salet ..y.. courd ..... fling .yy.. imply
 salet ..y.. courd ..... fling .GG.. blimp
@@ -1614,13 +1623,13 @@ salet ..y.. courd ..... fling .yy.y vigil
 salet ..y.. courd ..... fling .yGGG lying
 salet ..y.. courd y.... flick .yGy. icily
 salet ..y.. courd y.... flick .y.G. lynch
-salet ..y.. courd G.... knoll ...y. cliff
-salet ..y.. courd G.... knoll y..y. click
-salet ..y.. courd G.... knoll .y.y. cling
-salet ..y.. courd G.... knoll yy.y. clink
-salet ..y.. courd G.... knoll ...G. chili
-salet ..y.. courd G.... knoll ....G civil
-salet ..y.. courd G.... knoll ...GG chill
+salet ..y.. courd G.... knell ...y. cliff
+salet ..y.. courd G.... knell y..y. click
+salet ..y.. courd G.... knell .y.y. cling
+salet ..y.. courd G.... knell yy.y. clink
+salet ..y.. courd G.... knell ...G. chili
+salet ..y.. courd G.... knell ....G civil
+salet ..y.. courd G.... knell ...GG chill
 salet ..y.. courd .y... bloom .yy.. lingo
 salet ..y.. courd .y... bloom .yG.. knoll
 salet ..y.. courd .y... bloom .GG.. flown
@@ -1642,14 +1651,14 @@ salet ..y.. courd ..G.. flunk yGG.. bluff
 salet ..y.. courd ..G.. flunk GGG.. fluff
 salet ..y.. courd ..G.. flunk GGGG. flung
 salet ..y.. courd ..G.. flunk .GGGG plunk
-salet ..y.. courd G.G.. amene ..... cluck
-salet ..y.. courd G.G.. amene .y... clump
-salet ..y.. courd G.G.. amene ...G. clung
-salet ..y.. courd ...y. forky ..y.. grill
-salet ..y.. courd ...y. forky G.y.. frill
-salet ..y.. courd ...y. forky ..yy. krill
-salet ..y.. courd ...y. forky ..y.G wryly
-salet ..y.. courd ...y. forky ..G.G girly
+salet ..y.. courd G.G.. agami ..... cluck
+salet ..y.. courd G.G.. agami .y... clung
+salet ..y.. courd G.G.. agami ...G. clump
+salet ..y.. courd ...y. figgy .y... krill
+salet ..y.. courd ...y. figgy Gy... frill
+salet ..y.. courd ...y. figgy .yy.. grill
+salet ..y.. courd ...y. figgy ....G wryly
+salet ..y.. courd ...y. figgy .Gy.G girly
 salet ..y.. courd .y.y. growl .yG.y floor
 salet ..y.. courd .y.y. growl .GG.G broil
 salet ..y.. courd .y.y. growl .GGGG prowl
@@ -1661,7 +1670,6 @@ salet ..y.. courd ....G lipid GG.GG livid
 salet ..y.. courd .y..G blond .GG.G flood
 salet ..y.. courd .y..G blond GGG.G blood
 salet ..y.. courd ..y.G build .GGGG guild
-salet y.y.. floss .G.G. blush .GGGG plush
 salet G.y.. plink .y... shyly G..y. scowl
 salet G.y.. plink .y... shyly G..G. scold
 salet G.y.. plink .y... shyly G..GG surly
@@ -1688,32 +1696,30 @@ salet .yy.. corni .y... afoul yGy.G offal
 salet .yy.. corni .G... loamy yGG.. koala
 salet .yy.. corni .G... loamy yGyy. modal
 salet .yy.. corni .G... loamy GGy.y loyal
-salet .yy.. corni yG... fives ..... local
-salet .yy.. corni yG... fives G.... focal
-salet .yy.. corni yG... fives ..y.. vocal
+salet .yy.. corni yG... faver .y... local
+salet .yy.. corni yG... faver Gy... focal
+salet .yy.. corni yG... faver .yy.. vocal
 salet .yy.. corni ..y.. brawl .yG.y alarm
 salet .yy.. corni ..y.. brawl .GGGG drawl
 salet .yy.. corni ..G.. mural .GGGG rural
-salet .yy.. corni ...G. bipod ..... flank
-salet .yy.. corni ...G. bipod G.... blank
-salet .yy.. corni ...G. bipod ..y.. plank
-salet .yy.. corni ...G. bipod ....G gland
-salet .yy.. corni ...G. bipod G...G bland
+salet .yy.. corni ...G. blank .GGG. gland
+salet .yy.. corni ...G. blank GGGG. bland
+salet .yy.. corni ...G. blank .GGGG flank
 salet .yy.. corni G..G. clang GGGG. clank
-salet .yy.. corni ....y aumil y..Gy plaid
-salet .yy.. corni ....y aumil G..yG axial
-salet .yy.. corni ....y aumil y..GG flail
-salet .yy.. corni ....y aumil G..GG avail
-salet .yy.. corni ....y aumil yG.GG quail
+salet .yy.. corni ....y alapa Gyy.. axial
+salet .yy.. corni ....y alapa .yG.. quail
+salet .yy.. corni ....y alapa GyG.. avail
+salet .yy.. corni ....y alapa .GG.. flail
+salet .yy.. corni ....y alapa .GGy. plaid
 salet .yy.. corni ..y.y flair .yyyy rival
 salet .yy.. corni ..y.y flair .yGGy grail
 salet .yy.. corni ..y.y flair GyGGy frail
 salet .yy.. corni ...yy align yyy.y final
 salet .yy.. corni ...yy align Gyy.y anvil
 salet .yy.. corni ...yy align yGy.G plain
-salet Gyy.. chill y..G. apted y.... scaly
-salet Gyy.. chill y..G. apted yy... scalp
-salet Gyy.. chill y..G. apted y...G scald
+salet Gyy.. chill y..G. amped y.... scaly
+salet Gyy.. chill y..G. amped y.y.. scalp
+salet Gyy.. chill y..G. amped y...G scald
 salet Gyy.. chill .G..G shawl GGy.G shoal
 salet .Gy.. bingy ..... carol GG..y caulk
 salet .Gy.. bingy ..... carol .GG.y larva
@@ -1724,13 +1730,13 @@ salet ..G.. fugly ...y. colon GGGG. color
 salet ..G.. fugly ...yy nylon .yGy. polyp
 salet ..G.. fugly ...yG milky G.G.G moldy
 salet ..G.. fugly .G.yG bulky .GG.G pulpy
-salet ..G.. fugly ...GG width ..... jolly
-salet ..G.. fugly ...GG width .G... billy
-salet ..G.. fugly ...GG width GG... willy
-salet ..G.. fugly ...GG width ..y.. dolly
-salet ..G.. fugly ...GG width .Gy.. dilly
-salet ..G.. fugly ...GG width ....y holly
-salet ..G.. fugly ...GG width .G..y hilly
+salet ..G.. fugly ...GG whids ..... jolly
+salet ..G.. fugly ...GG whids .y... holly
+salet ..G.. fugly ...GG whids ..y.. billy
+salet ..G.. fugly ...GG whids G.y.. willy
+salet ..G.. fugly ...GG whids .yy.. hilly
+salet ..G.. fugly ...GG whids ...y. dolly
+salet ..G.. fugly ...GG whids ..yy. dilly
 salet ..G.. fugly G..GG filly G.GGG folly
 salet ..G.. fugly .G.GG bully .GGGG dully
 salet .yG.. allay ..GG. molar .GGGG polar
@@ -1768,30 +1774,30 @@ salet ...y. drone ..yyy enjoy GG.GG envoy
 salet ...y. drone ...Gy eking y..G. penny
 salet ...y. drone ...Gy eking y.GGG being
 salet ...y. drone ...Gy eking G.GGG eying
-salet ...y. drone ....G queue ....G chime
-salet ...y. drone ....G queue .G..G juice
-salet ...y. drone ....G queue ..y.G femme
-salet ...y. drone ....G queue ..G.G piece
-salet ...y. drone ....G queue ...GG imbue
-salet ...y. drone ....G queue y..GG pique
-salet ...y. drone ....G queue .G.GG fugue
-salet ...y. drone y...G whift ..... budge
-salet ...y. drone y...G whift G.... wedge
-salet ...y. drone y...G whift .y... hedge
-salet ...y. drone y...G whift ..y.. midge
-salet ...y. drone y...G whift ..G.. guide
-salet ...y. drone y...G whift .GG.. chide
-salet ...y. drone y...G whift ...y. fudge
-salet ...y. drone .y..G reive y...G purge
-salet ...y. drone .y..G reive G...G rhyme
-salet ...y. drone .y..G reive yy..G where
-salet ...y. drone .y..G reive yG..G merge
-salet ...y. drone .y..G reive y.y.G fibre
-salet ...y. drone .y..G reive yGy.G eerie
-salet ...y. drone .y..G reive yG.yG verge
-salet ...y. drone .y..G reive GG.yG revue
-salet ...y. drone .y..G reive y..GG curve
-salet ...y. drone .y..G reive yG.GG verve
+salet ...y. drone ....G coqui ..... femme
+salet ...y. drone ....G coqui ...G. fugue
+salet ...y. drone ....G coqui ..yG. queue
+salet ...y. drone ....G coqui ....y pixie
+salet ...y. drone ....G coqui y...y piece
+salet ...y. drone ....G coqui G...y chime
+salet ...y. drone ....G coqui y..yy juice
+salet ...y. drone ....G coqui ...Gy imbue
+salet ...y. drone ....G coqui ..GGy pique
+salet ...y. drone y...G whiff ..... budge
+salet ...y. drone y...G whiff G.... wedge
+salet ...y. drone y...G whiff .y... hedge
+salet ...y. drone y...G whiff ..y.. midge
+salet ...y. drone y...G whiff ..G.. guide
+salet ...y. drone y...G whiff .GG.. chide
+salet ...y. drone y...G whiff ...y. fudge
+salet ...y. drone .y..G verge ..y.G fibre
+salet ...y. drone .y..G verge .yy.G where
+salet ...y. drone .y..G verge yGy.G revue
+salet ...y. drone .y..G verge y.G.G curve
+salet ...y. drone .y..G verge .GG.G eerie
+salet ...y. drone .y..G verge GGG.G verve
+salet ...y. drone .y..G verge ..GGG purge
+salet ...y. drone .y..G verge .GGGG merge
 salet ...y. drone .G..G campi G.y.. creme
 salet ...y. drone .G..G campi G..G. crepe
 salet ...y. drone .G..G campi ....y bribe
@@ -1813,25 +1819,25 @@ salet ...y. drone .yy.G forge GGG.G force
 salet ...y. drone .yy.G forge .GyyG rogue
 salet ...y. drone .yy.G forge .GyGG rouge
 salet ...y. drone .yy.G forge .GGGG gorge
-salet ...y. drone ..G.G bezes .y... choke
-salet ...y. drone ..G.G bezes Gy... biome
-salet ...y. drone ..G.G bezes Gyy.. booze
-salet ...y. drone ..G.G bezes .y.y. evoke
-salet ...y. drone .GG.G probe .GG.G froze
-salet ...y. drone .GG.G probe yGG.G grope
-salet ...y. drone .GG.G probe GGG.G prove
-salet ...y. drone .GG.G probe .GGyG broke
-salet ...y. drone ...yG pinch .yy.. knife
-salet ...y. drone ...yG pinch ..G.. venue
-salet ...y. drone ...yG pinch .yG.. genie
-salet ...y. drone ...yG pinch .GG.. binge
-salet ...y. drone ...yG pinch .GyG. niece
-salet ...y. drone ...yG pinch ..GG. fence
-salet ...y. drone ...yG pinch G.GG. pence
-salet ...y. drone ...yG pinch .GGG. mince
-salet ...y. drone ...yG pinch .GG.y hinge
-salet ...y. drone ...yG pinch .Gyyy niche
-salet ...y. drone ...yG pinch ..GGy hence
+salet ...y. drone ..G.G avize ....G choke
+salet ...y. drone ..G.G avize .G..G evoke
+salet ...y. drone ..G.G avize ..y.G biome
+salet ...y. drone ..G.G avize ...GG booze
+salet ...y. drone .GG.G prove .GG.G broke
+salet ...y. drone .GG.G prove yGG.G grope
+salet ...y. drone .GG.G prove GGG.G probe
+salet ...y. drone .GG.G prove .GGGG grove
+salet ...y. drone ...yG winch .yy.. knife
+salet ...y. drone ...yG winch ..G.. venue
+salet ...y. drone ...yG winch .yG.. genie
+salet ...y. drone ...yG winch .GG.. binge
+salet ...y. drone ...yG winch .GyG. niece
+salet ...y. drone ...yG winch ..GG. fence
+salet ...y. drone ...yG winch .GGG. mince
+salet ...y. drone ...yG winch GGGG. wince
+salet ...y. drone ...yG winch .GG.y hinge
+salet ...y. drone ...yG winch .Gyyy niche
+salet ...y. drone ...yG winch ..GGy hence
 salet ...y. drone y..yG nudge yyG.G undue
 salet ...y. drone .y.yG genre .GyyG nerve
 salet ...y. drone ...GG penne ...GG whine
@@ -1841,9 +1847,9 @@ salet ...y. drone ..yGG opine G.GGG ovine
 salet ...y. drone ..GGG ozone ..GGG phone
 salet ...y. drone .GGGG crone .GGGG prone
 salet y..y. rhone ....y guess ..yy. pesky
-salet y..y. rhone y...y apods ....G cress
-salet y..y. rhone y...y apods .y..G press
-salet y..y. rhone y...y apods ...yG dress
+salet y..y. rhone y...y acold ..... press
+salet y..y. rhone y...y acold .y... cress
+salet y..y. rhone y...y acold ....y dress
 salet y..y. rhone ....G geese ...yG issue
 salet y..y. rhone ....G geese G..GG guise
 salet y..y. rhone y...G curse ..GGG verse
@@ -1857,12 +1863,12 @@ salet y..y. rhone .GG.G chose .GGGG whose
 salet y..y. rhone ...yG dense .yyyG ensue
 salet G..y. prink ..... seedy Gy... shove
 salet G..y. prink ..... seedy GGy.. segue
-salet G..y. prink .y... lurch ..y.. swore
-salet G..y. prink .y... lurch ..G.. serve
-salet G..y. prink .y... lurch .yG.. serum
-salet G..y. prink .y... lurch .GG.. surge
-salet G..y. prink .y... lurch ..yy. score
-salet G..y. prink .y... lurch ..y.y shore
+salet G..y. prink .y... gouch ..... serve
+salet G..y. prink .y... gouch .y... swore
+salet G..y. prink .y... gouch ..y.. serum
+salet G..y. prink .y... gouch y.y.. surge
+salet G..y. prink .y... gouch .y.y. score
+salet G..y. prink .y... gouch .y..y shore
 salet G..y. prink yy... sperm GGyG. spore
 salet G..y. prink ..y.. siege GGG.G sieve
 salet G..y. prink ..yy. since GGG.G singe
@@ -1877,24 +1883,24 @@ salet .y.y. beard .yy.. enema .yG.G hyena
 salet .y.y. beard .yy.. enema ..GyG omega
 salet .y.y. beard .Gy.. mecca .G..y vegan
 salet .y.y. beard .Gy.. mecca .GG.y pecan
-salet .y.y. beard .yG.. kanga .y... chafe
-salet .y.y. beard .yG.. kanga yy... quake
-salet .y.y. beard .yG.. kanga .yy.. inane
-salet .y.y. beard .yG.. kanga Gyy.. knave
-salet .y.y. beard .yG.. kanga .y.G. image
-salet .y.y. beard .yG.. kanga .y..y amaze
-salet .y.y. beard .yG.. kanga yy..y awake
-salet .y.y. beard .yG.. kanga .y.yy agape
+salet .y.y. beard .yG.. aking y.... chafe
+salet .y.y. beard .yG.. aking G.... amaze
+salet .y.y. beard .yG.. aking yy... quake
+salet .y.y. beard .yG.. aking Gy... awake
+salet .y.y. beard .yG.. aking yy.y. knave
+salet .y.y. beard .yG.. aking y.yG. inane
+salet .y.y. beard .yG.. aking G...y agape
+salet .y.y. beard .yG.. aking y.y.y image
 salet .y.y. beard .GG.. heave yGG.. peach
 salet .y.y. beard .GG.. heave GGGG. heavy
 salet .y.y. beard .GG.. heave .GG.G peace
 salet .y.y. beard .GG.. heave .GGGG weave
-salet .y.y. beard .yyy. wacke .y..y arena
-salet .y.y. beard .yyy. wacke .yy.y cream
-salet .y.y. beard .yyy. wacke .y.yy freak
-salet .y.y. beard .yyy. wacke Gy.yy wreak
-salet .y.y. beard .yyy. wacke .yyyy creak
-salet .y.y. beard .yyy. wacke .y..G argue
+salet .y.y. beard .yyy. fleck ..y.. argue
+salet .y.y. beard .yyy. fleck ..G.. arena
+salet .y.y. beard .yyy. fleck ..Gy. cream
+salet .y.y. beard .yyy. fleck ..G.G wreak
+salet .y.y. beard .yyy. fleck G.G.G freak
+salet .y.y. beard .yyy. fleck ..GyG creak
 salet .y.y. beard .Gyy. recap GG.Gy repay
 salet .y.y. beard yGyy. rebar GGyG. rehab
 salet .y.y. beard .yGy. cezve ....G frame
@@ -1904,9 +1910,9 @@ salet .y.y. beard .yGy. cezve ..y.G graze
 salet .y.y. beard .yGy. cezve G.y.G craze
 salet .y.y. beard .yGy. cezve ...GG grave
 salet .y.y. beard .yGy. cezve G..GG crave
-salet .y.y. beard GyGy. bucks G.... brave
-salet .y.y. beard GyGy. bucks G.y.. brace
-salet .y.y. beard GyGy. bucks G..G. brake
+salet .y.y. beard GyGy. aleck y.y.. brave
+salet .y.y. beard GyGy. aleck y.yG. brace
+salet .y.y. beard GyGy. aleck y.y.y brake
 salet .y.y. beard .yyG. afire y..Gy opera
 salet .y.y. beard .yyG. afire G..GG azure
 salet .y.y. beard .GGG. weary .GGG. rearm
@@ -1919,55 +1925,53 @@ salet .y.y. beard .yGyy drake yGG.G grade
 salet .y.y. beard .yGyy drake GGG.G drape
 salet .y.y. beard .yy.G ahead G.G.G amend
 salet .y.y. beard .yy.G ahead ..GGG knead
-salet yy.y. achar G.... abuse G..yG aside
-salet yy.y. achar G.... abuse G.GGG amuse
-salet yy.y. achar G...y arise GG.GG arose
+salet yy.y. cuish ...G. abase G..GG arose
+salet yy.y. cuish ...G. abase ..GGG erase
+salet yy.y. cuish .y.G. abuse G.GGG amuse
 salet Gy.y. pharm ..y.. sedan Gy.Gy sneak
 salet Gy.y. pharm y.y.. sepia Gyy.y speak
 salet Gy.y. pharm ..G.. snake G.G.G suave
 salet Gy.y. pharm y.G.. space GGG.G spade
-salet Gy.y. pharm .GG.. coved ...y. shake
-salet Gy.y. pharm .GG.. coved ..yy. shave
-salet Gy.y. pharm .GG.. coved ...yy shade
+salet Gy.y. pharm .GG.. asked yy.y. shave
+salet Gy.y. pharm .GG.. asked yyyy. shake
+salet Gy.y. pharm .GG.. asked yy.yy shade
 salet Gy.y. pharm ..GG. scare G.GGG snare
 salet .G.y. cumin ..... badge .G.yG gaffe
 salet .G.y. cumin ..... badge GG.GG barge
 salet .G.y. cumin G.... cache GG..G carve
 salet .G.y. cumin .y... gauge yGy.G vague
 salet .G.y. cumin .y... gauge GGG.G gauze
-salet ..yy. doing ..... clump .y... leery
-salet ..yy. doing ..... clump yy... leech
-salet ..yy. doing ..... clump Gy... cycle
-salet ..yy. doing ..... clump yG... fleck
-salet ..yy. doing ..... clump GG... clerk
-salet ..yy. doing ..... clump .yy.. quell
-salet ..yy. doing ..... clump .GG.. fluke
-salet ..yy. doing ..... clump .yyy. lemur
-salet ..yy. doing ..... clump .GGG. flume
-salet ..yy. doing ..... clump .y..y reply
-salet ..yy. doing ..... clump .GGGy plume
-salet ..yy. doing ..... clump .y..G whelp
-salet ..yy. doing .y... elbow yG.y. clove
-salet ..yy. doing .y... elbow GG.y. elope
-salet ..yy. doing .y... elbow yGyy. bloke
-salet ..yy. doing .y... elbow yy.yy whole
-salet ..yy. doing ..y.. bible .y.yy peril
-salet ..yy. doing ..y.. bible .G.GG rifle
-salet ..yy. doing y.y.. byway ..... field
-salet ..yy. doing y.y.. byway .y... yield
-salet ..yy. doing y.y.. byway ..y.. wield
-salet ..yy. doing ..G.. exile ..GGG while
-salet ..yy. doing ...y. newly yy.G. uncle
-salet ..yy. doing ....y bugle ..yyy elegy
-salet ..yy. doing ....y bugle ..Gyy leggy
-salet ..yy. doing .y..y globe GGG.G glove
-salet G.yy. chimo ..... spell G.GGG swell
-salet G.yy. chimo .G... shelf GGGG. shell
-salet .yyy. gnarl ..y.y apple y..yy bleak
-salet .yyy. gnarl ..y.y apple yy.yy plead
-salet .yyy. gnarl ..y.y apple G..yG alike
-salet .yyy. gnarl ..y.y apple G..GG amble
-salet .yyy. gnarl ..y.y apple G.GGG ample
+salet ..yy. deice .y... elbow yy... quell
+salet ..yy. deice .y... elbow yy..y whelp
+salet ..yy. deice .G... lemon yG... reply
+salet ..yy. deice .G... lemon GG... leggy
+salet ..yy. deice .G... lemon GGG.. lemur
+salet ..yy. deice .G... lemon yG..y newly
+salet ..yy. deice yyy.. awmry ..... field
+salet ..yy. deice yyy.. awmry .y... wield
+salet ..yy. deice yyy.. awmry ....y yield
+salet ..yy. deice ....G bloke .y..G lunge
+salet ..yy. deice ....G bloke Gy..G bugle
+salet ..yy. deice ....G bloke .G..G flume
+salet ..yy. deice ....G bloke yyy.G noble
+salet ..yy. deice ....G bloke Gyy.G boule
+salet ..yy. deice ....G bloke .yG.G whole
+salet ..yy. deice ....G bloke .GG.G glove
+salet ..yy. deice ....G bloke yGG.G globe
+salet ..yy. deice ....G bloke .G.GG fluke
+salet ..yy. deice ..y.G bible .G.GG rifle
+salet ..yy. deice ..G.G guile ..GyG olive
+salet ..yy. deice ..G.G guile ..GGG while
+salet ..yy. deice ...yG clone Gy..G cycle
+salet ..yy. deice ...yG clone GGG.G clove
+salet ..yy. deice ...yG clone yy.yG uncle
+salet G.yy. chime ....y spell G.GGG swell
+salet G.yy. chime .G..y shelf GGGG. shell
+salet .yyy. gnarl ..y.y ample y..yy bleak
+salet .yyy. gnarl ..y.y ample y.yyy plead
+salet .yyy. gnarl ..y.y ample G..yG alike
+salet .yyy. gnarl ..y.y ample GG.GG amble
+salet .yyy. gnarl ..y.y ample G.GGG apple
 salet .yyy. gnarl y.y.y agile Gy.yG algae
 salet .yyy. gnarl .yy.y alone yG.yy clean
 salet .yyy. gnarl ..G.y fehme .G... leaky
@@ -1987,7 +1991,7 @@ salet .yyy. gnarl ..y.G medal .G.GG fecal
 salet .yyy. gnarl ..y.G medal .yyGG ideal
 salet .yyy. gnarl ..y.G medal .GyGG decal
 salet .yyy. gnarl ..y.G medal .GGGG pedal
-salet .Gyy. cadgy .G... fable .G.GG maple
+salet .Gyy. creme ....G fable .G.GG ladle
 salet ..Gy. himbo ..... delve .GG.. jelly
 salet ..Gy. himbo ...y. belle GGGG. belly
 salet ..Gy. himbo ...y. belle G.G.G bulge
@@ -2022,27 +2026,27 @@ salet ...G. rownd yG... chevy G.yy. cover
 salet ...G. rownd yG... chevy .yyy. hover
 salet ...G. rownd yG... chevy ..y.y foyer
 salet ...G. rownd GG... roger GG.GG rover
-salet ...G. rownd yGG.. bumph ..... cower
-salet ...G. rownd yGG.. bumph ..y.. mower
-salet ...G. rownd yGG.. bumph ...y. power
-salet ...G. rownd ...y. divvy ..... queen
-salet ...G. rownd ...y. divvy .Gy.. vixen
-salet ...G. rownd ...y. divvy .GG.. given
-salet ...G. rownd ...y. divvy ....y hymen
-salet ...G. rownd ...y. divvy .G..G piney
-salet ...G. rownd y..y. finer ..yGy green
-salet ...G. rownd y..y. finer ..yGG never
-salet ...G. rownd y..y. finer yyyGG infer
-salet ...G. rownd y..y. finer .GyGG nicer
-salet ...G. rownd y..y. finer .yGGG inner
-salet ...G. rownd y..y. finer .GGGG miner
-salet ...G. rownd .G.y. blimy ..... coven
-salet ...G. rownd .G.y. blimy ....G honey
-salet ...G. rownd .G.y. blimy G...G boney
-salet ...G. rownd .G.y. blimy ...yG money
-salet ...G. rownd .Gyy. kames ...G. woven
-salet ...G. rownd .Gyy. kames y..G. woken
-salet ...G. rownd .Gyy. kames ..GG. women
+salet ...G. rownd yGG.. amici ..... power
+salet ...G. rownd yGG.. amici .y... mower
+salet ...G. rownd yGG.. amici ...y. cower
+salet ...G. rownd ...y. bigly ..... queen
+salet ...G. rownd ...y. bigly .G... vixen
+salet ...G. rownd ...y. bigly .Gy.. given
+salet ...G. rownd ...y. bigly ....y hymen
+salet ...G. rownd ...y. bigly .G..G piney
+salet ...G. rownd y..y. miner ..yGy green
+salet ...G. rownd y..y. miner ..yGG never
+salet ...G. rownd y..y. miner .yyGG infer
+salet ...G. rownd y..y. miner .GyGG nicer
+salet ...G. rownd y..y. miner .yGGG inner
+salet ...G. rownd y..y. miner .GGGG finer
+salet ...G. rownd .G.y. ambry ..... coven
+salet ...G. rownd .G.y. ambry ....G honey
+salet ...G. rownd .G.y. ambry .y..G money
+salet ...G. rownd .G.y. ambry ..y.G boney
+salet ...G. rownd .Gyy. dumky ..... woven
+salet ...G. rownd .Gyy. dumky ..G.. women
+salet ...G. rownd .Gyy. dumky ...y. woken
 salet ...G. rownd y...y drier y..GG udder
 salet ...G. rownd y...y drier G..GG defer
 salet ...G. rownd y...y drier GG.GG dryer
@@ -2052,21 +2056,20 @@ salet ...G. rownd G...y rider G.GGG ruder
 salet ...G. rownd yy..y odder G.GGG order
 salet ...G. rownd .G..y dopey yG.G. modem
 salet ...G. rownd y..yy diner y.yGG under
-salet ...G. rownd y...G fichu ..... breed
-salet ...G. rownd y...G fichu G.... freed
-salet ...G. rownd y...G fichu .y... dried
-salet ...G. rownd y...G fichu Gy... fried
-salet ...G. rownd y...G fichu ..y.. creed
-salet ...G. rownd y...G fichu .yy.. cried
+salet ...G. rownd y...G coifs ..... breed
+salet ...G. rownd y...G coifs G.... creed
+salet ...G. rownd y...G coifs ..G.. dried
+salet ...G. rownd y...G coifs G.G.. cried
+salet ...G. rownd y...G coifs ...y. freed
+salet ...G. rownd y...G coifs ..Gy. fried
 salet ...G. rownd ...yG kneed .G.GG unfed
-salet y..G. risen yGGG. miser .GGGG wiser
 salet G..G. hewer yy.G. sheen GGGG. sheep
 salet G..G. hewer .G.G. semen GG.GG seven
 salet G..G. hewer .y.Gy scree G.GGG spree
-salet G..G. hewer ...GG barky ..y.. super
-salet G..G. hewer ...GG barky y.y.. sober
-salet G..G. hewer ...GG barky ..G.. surer
-salet G..G. hewer ...GG barky ..yy. skier
+salet G..G. hewer ...GG appui ..... sober
+salet G..G. hewer ...GG appui ...y. surer
+salet G..G. hewer ...GG appui ..Gy. super
+salet G..G. hewer ...GG appui ....y skier
 salet .G.G. gormy ..... haven .G.GG waxen
 salet .G.G. gormy ..y.. caper .G.Gy raven
 salet .G.G. gormy ..y.. caper .G.GG wafer
@@ -2075,31 +2078,31 @@ salet .G.G. gormy ..y.. caper .GGGG paper
 salet .G.G. gormy y.y.. eager .GGGG wager
 salet .G.G. gormy ..G.. parer .GGGG rarer
 salet .G.G. gormy ..yy. maker yG.Gy ramen
-salet ..yG. bevor .y... picky ..... lumen
-salet ..yG. bevor .y... picky y.... expel
-salet ..yG. bevor .y... picky yy... impel
-salet ..yG. bevor .y... picky Gy... plied
-salet ..yG. bevor .y... picky .G... linen
-salet ..yG. bevor .y... picky GG... pixel
-salet ..yG. bevor .y... picky ..y.. clued
-salet ..yG. bevor .y... picky ..G.. excel
-salet ..yG. bevor .y... picky ...y. kneel
-salet ..yG. bevor .y... picky .G.y. liken
+salet ..yG. bevor .y... pinup ..... excel
+salet ..yG. bevor .y... pinup y.... expel
+salet ..yG. bevor .y... pinup yy... impel
+salet ..yG. bevor .y... pinup Gy... plied
+salet ..yG. bevor .y... pinup GG... pixel
+salet ..yG. bevor .y... pinup ..y.. kneel
+salet ..yG. bevor .y... pinup .Gy.. liken
+salet ..yG. bevor .y... pinup .GG.. linen
+salet ..yG. bevor .y... pinup ...y. clued
+salet ..yG. bevor .y... pinup ..yy. lumen
 salet ..yG. bevor Gy... bleed GGGG. bleep
 salet ..yG. bevor .y.y. dowel yy.Gy olden
 salet ..yG. bevor .y.y. dowel yG.GG model
 salet ..yG. bevor .yGy. hovel .GGGG novel
 salet ..yG. bevor .y..y cruel .GGGG gruel
-salet ..yG. bevor .y..G ficos ..... elder
-salet ..yG. bevor .y..G ficos G.... flyer
-salet ..yG. bevor .y..G ficos .y... plier
-salet ..yG. bevor .y..G ficos Gy... flier
-salet ..yG. bevor .y..G ficos .G... liner
-salet ..yG. bevor .y..G ficos ..G.. ulcer
+salet ..yG. bevor .y..G deify .y... ulcer
+salet ..yG. bevor .y..G deify yy... elder
+salet ..yG. bevor .y..G deify .yy.. liner
+salet ..yG. bevor .y..G deify .yG.. plier
+salet ..yG. bevor .y..G deify .yGy. flier
+salet ..yG. bevor .y..G deify .y.yy flyer
 salet ..yG. bevor .y.yG lower yy.GG older
-salet .GyG. nymph ..... bagel .GGGy lager
-salet .GyG. nymph ..... bagel yG.GG label
-salet .GyG. nymph ..... bagel .GyGG gavel
+salet .GyG. lynch y.... bagel .GyGG gavel
+salet .GyG. lynch G.... label GG.G. lager
+salet .GyG. lynch G.... label GG.GG lapel
 salet ....y north y..y. tunic G.yy. tying
 salet ....y north .y.y. outdo G.G.. optic
 salet ....y north .y.y. outdo GGG.G outgo
@@ -2112,11 +2115,11 @@ salet ....y north ..yy. trick GG.GG truck
 salet ....y north .yyy. tumor G..Gy troop
 salet ....y north .yyy. tumor GG.GG tutor
 salet ....y north .Gyy. motor .GGGG rotor
-salet ....y north ...G. wited .Gy.. fifty
-salet ....y north ...G. wited ..G.. putty
-salet ....y north ...G. wited .GG.. bitty
-salet ....y north ...G. wited GGG.. witty
-salet ....y north ...G. wited .GG.y ditty
+salet ....y north ...G. fiked ..... putty
+salet ....y north ...G. fiked .G... bitty
+salet ....y north ...G. fiked GG... fifty
+salet ....y north ...G. fiked .Gy.. kitty
+salet ....y north ...G. fiked .G..y ditty
 salet ....y north y..G. minty .yyGG unity
 salet ....y north yy.G. junto ..GGG pinto
 salet ....y north .G.G. booty .GyG. motto
@@ -2127,24 +2130,24 @@ salet ....y north ...yy pithy .yyy. thick
 salet ....y north ...yy pithy .yyGG itchy
 salet ....y north y..yy thing GGGG. think
 salet ....y north .yGyy throb GGGG. throw
-salet ....y north ...yG bipod ..... hutch
-salet ....y north ...yG bipod G.... butch
-salet ....y north ...yG bipod .y... thigh
-salet ....y north ...yG bipod .G... hitch
-salet ....y north ...yG bipod .Gy.. pitch
-salet ....y north ...yG bipod ....y dutch
-salet ....y north ...yG bipod .G..y ditch
+salet ....y north ...yG hider y.... butch
+salet ....y north ...yG hider G.... hutch
+salet ....y north ...yG hider yy... thigh
+salet ....y north ...yG hider yG... pitch
+salet ....y north ...yG hider GG... hitch
+salet ....y north ...yG hider y.y.. dutch
+salet ....y north ...yG hider yGy.. ditch
 salet ....y north .G.yG botch .Gy.G tough
 salet ....y north .G.yG botch .GyGG touch
 salet ....y north ...GG fifth .G.GG width
-salet ....y north .G.GG abysm ..... tooth
-salet ....y north .G.GG abysm .y... booth
-salet ....y north .G.GG abysm ..y.. youth
-salet ....y north .G.GG abysm ....y mouth
+salet ....y north .G.GG aboma ..y.. youth
+salet ....y north .G.GG aboma ..G.. tooth
+salet ....y north .G.GG aboma .yG.. booth
+salet ....y north .G.GG aboma ..yy. mouth
 salet ....y north .yyGG broth .GGGG froth
-salet ....y north ..GGG abeam ..... girth
-salet ....y north ..GGG abeam .y... birth
-salet ....y north ..GGG abeam ....y mirth
+salet ....y north ..GGG aboma ..... girth
+salet ....y north ..GGG aboma .y... birth
+salet ....y north ..GGG aboma ...y. mirth
 salet ....y north .GGGG forth .GGGG worth
 salet G...y pinko ..... study GGG.. stuff
 salet G...y pinko .y... smith G.Gy. stiff
@@ -2156,31 +2159,31 @@ salet G...y pinko ....y sooty GGGG. sooth
 salet G...y pinko ....y sooty G.GyG story
 salet G...y pinko y...y stomp GGG.G stoop
 salet G...y pinko ...yy stock GGG.G stork
-salet .y..y conia ....y tramp yGG.. wrath
-salet .y..y conia .G..y today GG.G. topaz
-salet .y..y conia ..y.y thank G.GG. twang
-salet .y..y conia ...yy amity y.Gy. triad
+salet .y..y tonic GG... today GG.G. topaz
+salet .y..y tonic G.y.. thank G.GG. twang
+salet .y..y tonic y.G.. aunty yGGG. junta
+salet .y..y tonic G..y. tiara Gyyy. triad
 salet Gy..y prink ..... staff GyG.. swath
 salet Gy..y prink ..... staff GGG.. stash
 salet Gy..y prink .y... straw GGGG. stray
 salet .G..y corby ..... datum .Gy.. faith
-salet .G..y corby y.... wimpy ..... hatch
-salet .G..y corby y.... wimpy G.... watch
-salet .G..y corby y.... wimpy ..y.. match
-salet .G..y corby y.... wimpy ...y. patch
+salet .G..y corby y.... humpy y.... watch
+salet .G..y corby y.... humpy G.... hatch
+salet .G..y corby y.... humpy y.y.. match
+salet .G..y corby y.... humpy y..y. patch
 salet .G..y corby G.... cacti GGyy. catch
 salet .G..y corby .y... patio .Gy.G tango
 salet .G..y corby .y.y. baton yGyG. taboo
-salet .G..y corby ....G confs ..... patty
-salet .G..y corby ....G confs ..y.. tawny
-salet .G..y corby ....G confs ..G.. tangy
-salet .G..y corby ....G confs ...y. fatty
-salet .G..y corby ....G confs ...G. taffy
+salet .G..y corby ....G fains .G... patty
+salet .G..y corby ....G fains yG... taffy
+salet .G..y corby ....G fains GG... fatty
+salet .G..y corby ....G fains .G.y. tangy
+salet .G..y corby ....G fains .G.G. tawny
 salet .G..y corby ..G.G party .GGyG tardy
 salet .G..y corby ..G.G party .GGGG warty
-salet yG..y potty ...GG hasty .GGGG nasty
-salet .yy.y rotas y.yy. trail GGG.G trawl
-salet .yy.y rotas ..yG. tidal G..GG tubal
+salet yG..y hyson .yG.. pasty .GGGG tasty
+salet .yy.y rotal y.yyG trail GGG.G trawl
+salet .yy.y rotal ..yGG tidal G..GG tubal
 salet ...yy trite y...y detox .GG.. fetch
 salet ...yy trite G...y teddy GG... tempo
 salet ...yy trite yy..y metro .GGy. retch
@@ -2197,27 +2200,27 @@ salet ...yy trite GG..G trope GG..G truce
 salet ...yy trite GG..G trope GGG.G trove
 salet ...yy trite y.y.G cutie .yGGG untie
 salet ...yy trite G.G.G twice GGG.G twine
-salet ...yy trite GGG.G banco ..... tripe
-salet ...yy trite GGG.G banco y.... tribe
-salet ...yy trite GGG.G banco ...G. trice
+salet ...yy trite GGG.G abamp ..... trice
+salet ...yy trite GGG.G abamp .y... tribe
+salet ...yy trite GGG.G abamp ....y tripe
 salet ...yy trite ...GG chute ..yGG quote
 salet ...yy trite .y.GG forte .GyGG route
 salet ...yy trite .G.GG brute .G.GG wrote
 salet ...yy trite ..GGG quite ..GGG white
 salet ...yy trite ..GGG quite .yGGG unite
-salet G..yy korun ..... smite G.GGG spite
-salet G..yy korun .y... smote G.GyG stove
-salet .y.yy trace G.y.y theta G.G.y tweak
-salet .y.yy trace y.G.y death .GGG. meaty
-salet .y.yy trace y.G.y death .GGGG heath
-salet .y.yy trace y.G.G abate ..GGG ovate
-salet .y.yy trace y.G.G abate G.GGG agate
-salet .y.yy trace yGG.G grate .GGGG irate
-salet Gy.yy grike ....y stead GGGG. steam
-salet Gy.yy grike ....G state GGG.G stave
-salet yG.yy chape ..y.G betty .y.G. waste
-salet yG.yy chape ..y.G betty Gy.G. baste
-salet yG.yy chape ..y.G betty .yyG. taste
+salet G..yy novum y.... stein GGG.G stern
+salet G..yy novum .y... stoke GGG.G store
+salet .y.yy crate .yyyy extra y.yGG terra
+salet .y.yy crate ..GGy death .GGG. meaty
+salet .y.yy crate ..GGy death .GGGG heath
+salet .y.yy crate ..GGG abate ..GGG ovate
+salet .y.yy crate ..GGG abate G.GGG agate
+salet .y.yy crate .GGGG grate .GGGG irate
+salet Gy.yy gryke ....y stead GGGG. steam
+salet Gy.yy gryke ....G state GGG.G stave
+salet yG.yy bitch ..y.. kapow .G... taste
+salet yG.yy bitch ..y.. kapow .Gy.. paste
+salet yG.yy bitch ..y.. kapow .G..y waste
 salet ...Gy outre ..y.y thief G..G. tweed
 salet ...Gy outre ..yyy tiger G..Gy threw
 salet ...Gy outre ..yyy tiger Gy.Gy tried
@@ -2226,24 +2229,24 @@ salet ...Gy outre ..yyy tiger GG.GG timer
 salet ...Gy outre ..Gyy deter ..GGG inter
 salet ...Gy outre ..Gyy deter .yGGG enter
 salet ...Gy outre ..Gyy deter .GGGG meter
-salet .G.Gy therm y.yy. cedes ...G. water
-salet .G.Gy therm y.yy. cedes G..G. cater
-salet .G.Gy therm y.yy. cedes .y.G. eater
-salet .G.Gy therm G.yy. taker GG.GG taper
+salet .G.Gy metre .yyy. taker GG.GG taper
+salet .G.Gy metre .yGy. aitch y.G.. water
+salet .G.Gy metre .yGy. aitch y.Gy. cater
+salet .G.Gy metre .yGy. aitch y.G.y hater
 salet ....G groin .yy.. court .G.yG robot
-salet ....G groin y..y. farms ..... tight
-salet ....G groin y..y. farms G.... fight
-salet ....G groin y..y. farms ...y. might
+salet ....G groin y..y. dwalm ..... fight
+salet ....G groin y..y. dwalm .y... wight
+salet ....G groin y..y. dwalm ....y might
 salet ....G groin ..yy. idiot y..GG pivot
 salet ....G groin ..y.y count .GyyG donut
 salet ....G groin ..y.y count .GGGG mount
 salet ....G groin ..yyy joint .GGGG point
-salet y...G boric ..y.. trust GG.GG tryst
-salet y...G boric ...y. midst .y.GG twist
-salet y...G boric .G.y. fehme ..... joist
-salet y...G boric .G.y. fehme G.... foist
-salet y...G boric .G.y. fehme ..y.. hoist
-salet y...G boric .G.y. fehme ...y. moist
+salet y...G doric .G... boost .G.GG joust
+salet y...G doric ..y.. trust GG.GG tryst
+salet y...G doric .G.y. humfs ....y joist
+salet y...G doric .G.y. humfs G...y hoist
+salet y...G doric .G.y. humfs ..y.y moist
+salet y...G doric .G.y. humfs ...yy foist
 salet G...G churn .G... shift GG..G shoot
 salet G...G churn ..y.. spout G.GGG stout
 salet G...G churn ...G. skirt G..GG sport
@@ -2258,20 +2261,19 @@ salet .G..G touch y.G.. jived ..... gaunt
 salet .G..G touch y.G.. jived G.... jaunt
 salet .G..G touch y.G.. jived ..y.. vaunt
 salet .G..G touch y.G.. jived ....y daunt
-salet ..y.G clung .yy.. built .GGGG quilt
-salet ...yG runic ..... depot .y..G theft
-salet ...yG runic y.... exert ..GGG overt
-salet ...yG runic ...G. befit yG.GG debit
-salet ...yG runic G..G. refit GG.GG remit
-salet ...yG runic y...y crept yGG.G erect
-salet ...yG runic ...yy edict G.GGG evict
-salet .y.yG dench .y... great .yGyG avert
-salet .y.yG dench .y... great .GGGG treat
-salet .yyyG repla .y.yy bleat .GGGG cleat
+salet ..y.G flung .yy.. built .GGGG quilt
+salet ...yG curio ..... event ..G.G theft
+salet ...yG curio .yy.. erupt yyy.G rebut
+salet ...yG curio ...y. eight yy..G inept
+salet ...yG curio y..y. edict G.GGG evict
+salet ...yG curio ...G. befit yG.GG debit
+salet ...yG curio ..yG. refit GG.GG remit
+salet .y.yG gnarl ..y.. cheat ..GyG adept
+salet .y.yG gnarl ..y.. cheat .GGGG wheat
+salet .yyyG reply .y.y. bleat .GGGG cleat
 salet ...GG cerne .y... duvet .G.GG quiet
 salet ...GG cerne Gy... comet GG.GG covet
 salet ..... courd ..... nymph .y... fizzy yG..G jiffy
-salet ..... courd y.... pinch .GGGG finch .GGGG winch
 salet ..... courd .G... boozy .G..G foggy .G..G poppy
 salet ..... courd ..y.. gimpy ....G funky GG..G fuzzy
 salet ..... courd ..y.. gimpy ....G funky .GG.G bunny
@@ -2281,19 +2283,21 @@ salet ..... courd .y.y. gimpy ..... brook .GG.. frown
 salet ..... courd .y.y. gimpy ..... brook GGG.. brown
 salet ..... courd .y.y. gimpy yG... rigor .GGGG vigor
 salet ..... courd .G..y howdy .G.GG goody .GGGG moody
-salet ..... courd .GG.G whomp ..y.. bound .GGGG found
-salet .G... corny ....G podgy ....G jazzy .G..G mammy
-salet ..y.. courd G.... knoll ...y. cliff GGG.. climb
+salet ..... courd .GG.G bumph .y... found .GGGG wound
+salet .G... corny ....G pudge ..... jazzy .G..G mammy
+salet ..y.. courd G.... knell ...y. cliff GGG.. climb
 salet ..y.. courd ..G.. flunk .GG.. plumb GGGG. plump
+salet .yy.. corni ...G. blank .GGGG flank .GGGG plank
 salet ...y. drone .y..y furry ..G.G jerky .GG.G mercy
 salet ...y. drone .y..y furry ..G.G jerky .GGGG perky
 salet ...y. drone .y..y furry ..GGG berry .GGGG merry
-salet ...y. drone ....G queue ....G chime ..y.G pixie
-salet ...y. drone y...G whift ..... budge .GGGG judge
-salet ...y. drone .GG.G probe .GG.G froze .GG.G grove
-salet ...y. drone ...yG pinch .GGG. mince .GGGG wince
+salet ...y. drone y...G whiff ..... budge .GGGG judge
+salet ...y. drone .y..G verge ..y.G fibre ...yG rhyme
+salet ...y. drone .GG.G prove .GG.G broke .GG.G froze
+salet ...y. drone ...yG winch ..GG. fence .GGGG pence
 salet .y.y. beard .yGy. cezve ....G frame .GG.G grape
-salet .yyy. gnarl ..y.y apple G..yG alike GGG.G alive
+salet ..yy. deice ....G bloke .G..G flume .GGGG plume
+salet .yyy. gnarl ..y.y ample G..yG alike GGG.G alive
 salet .yyy. gnarl ..G.y fehme ....G blade .GG.G place
 salet .yyy. gnarl ..G.y fehme ....G blade GGG.G blaze
 salet ...G. rownd y.... pubic ..... fever Gy.GG freer
@@ -2303,13 +2307,27 @@ salet ...G. rownd y.... pubic ...y. fixer .G.GG giver
 salet ...G. rownd y.... pubic ....y cheer G.GGy creek
 salet ...G. rownd yG... chevy ..y.. joker .G.GG boxer
 salet ...G. rownd yG... chevy ..y.. joker .GGGG poker
-salet ...G. rownd y..y. finer ..yGy green .GGGG preen
-salet ...G. rownd y...G fichu ..... breed .GGGG greed
-salet ...G. rownd y...G fichu .y... dried .GGGG pried
+salet ...G. rownd y..y. miner ..yGy green .GGGG preen
+salet ...G. rownd y...G coifs ..... breed .GGGG greed
+salet ...G. rownd y...G coifs ..G.. dried .GGGG pried
 salet .G.G. gormy ..y.. caper .G.GG wafer .G.GG baker
 salet .G.G. gormy ..y.. caper .G.GG wafer GG.GG waver
-salet ..yG. bevor .y... picky ..... lumen y..G. wheel
-salet ....y north ...G. wited .GG.. bitty .GGGG kitty
-salet ....y north ...yG bipod .G... hitch .GGGG witch
-salet .G..y corby ....G confs ..... patty .GGGG tatty
-salet ....G groin y..y. farms ..... tight .GGGG wight
+salet ..yG. bevor .y... pinup ..... excel y..GG wheel
+salet ....y north ...G. fiked .G... bitty .GGGG witty
+salet ....y north ...yG hider yG... pitch .GGGG witch
+salet .G..y corby ....G fains .G... patty .GGGG tatty
+salet ....G groin y..y. dwalm ..... fight .GGGG tight
+
+--- stats ---
+1 : 0
+2 : 78
+3 : 1228
+4 : 965
+5 : 44
+6 : 0
+x : 0
+av: 3.42117
+ #: 7920
+-------------
+
+Took 1721 ms
